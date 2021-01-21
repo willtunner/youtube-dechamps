@@ -1,0 +1,15 @@
+
+convertKit
+
+https://developers.convertkit.com/#getting-started
+https://app.convertkit.com/account/edit#
+
+secretKey = YuOBCP1VIpV4aUdDXWMyq88NBZvgAWgO5_YNY63lFPI
+
+total subscribs
+https://api.convertkit.com/v3/subscribers?api_secret=YuOBCP1VIpV4aUdDXWMyq88NBZvgAWgO5_YNY63lFPI&from=2016-02-01&to=2015-02-28
+
+
+
+Dechamps
+ZJwLOhi01EvB90CIpsyw1e0fGRzPfw1Q
