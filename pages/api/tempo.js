@@ -10,6 +10,9 @@ async function tempo(req, res) {
     // ? Pega um campo especifico 'total_subscribers'
     const inscritos = subscribersResponseJson.total_subscribers;
 
+    // ? vercel adciona as requisições dentro de um buffer
+    res.setHeader('Cache-Control', 's-maxage=10, stale-while-revalidate');
+
 
 
 
